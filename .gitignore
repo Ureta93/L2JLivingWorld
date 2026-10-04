@@ -14,3 +14,4 @@ launcher/logs-linux/
 launcher/.linux-pids/
 brain/.env
 brain/.venv/
+game/presence.json
