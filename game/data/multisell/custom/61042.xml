@@ -13,14 +13,4 @@
 		<ingredient count="8960000" id="57" />
 		<production count="1" id="6374" />
 	</item>
-	<item>
-		<!-- S-Grade Heavy Armor: Sealed Imperial Crusader Breastplate -->
-		<ingredient count="14300000" id="57" />
-		<production count="1" id="6674" />
-	</item>
-	<item>
-		<!-- S-Grade Heavy Armor: Sealed Imperial Crusader Gaiters -->
-		<ingredient count="8960000" id="57" />
-		<production count="1" id="6675" />
-	</item>
 </list>

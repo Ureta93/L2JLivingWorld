@@ -4,21 +4,6 @@
 		<npc>-1</npc> <!-- CB -->
 	</npcs>
 	<item>
-		<!-- S-Grade Jewels: Sealed Tateossian Earring -->
-		<ingredient count="3700000" id="57" />
-		<production count="1" id="6724" />
-	</item>
-	<item>
-		<!-- S-Grade Jewels: Sealed Tateossian Necklace -->
-		<ingredient count="4940000" id="57" />
-		<production count="1" id="6726" />
-	</item>
-	<item>
-		<!-- S-Grade Jewels: Sealed Tateossian Ring -->
-		<ingredient count="2470000" id="57" />
-		<production count="1" id="6725" />
-	</item>
-	<item>
 		<!-- S-Grade Jewels: Tateossian Earring -->
 		<ingredient count="4440000" id="57" />
 		<production count="1" id="858" />

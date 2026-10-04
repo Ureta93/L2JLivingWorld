@@ -8,9 +8,4 @@
 		<ingredient count="17400000" id="57" />
 		<production count="1" id="6379" />
 	</item>
-	<item>
-		<!-- S-Grade Light Armor: Sealed Draconic Leather Armor -->
-		<ingredient count="17400000" id="57" />
-		<production count="1" id="6680" />
-	</item>
 </list>

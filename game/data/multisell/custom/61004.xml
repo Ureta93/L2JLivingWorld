@@ -54,26 +54,6 @@
 		<production count="1" id="6662" />
 	</item>
 	<item>
-		<!-- A-Grade Jewels: Sealed Majestic Earring -->
-		<ingredient count="1950000" id="57" />
-		<production count="1" id="6327" />
-	</item>
-	<item>
-		<!-- A-Grade Jewels: Sealed Majestic Ring -->
-		<ingredient count="6143" id="57" />
-		<production count="1" id="6328" />
-	</item>
-	<item>
-		<!-- A-Grade Jewels: Sealed Phoenix Earring -->
-		<ingredient count="1310000" id="57" />
-		<production count="1" id="6324" />
-	</item>
-	<item>
-		<!-- A-Grade Jewels: Sealed Phoenix Ring -->
-		<ingredient count="871000" id="57" />
-		<production count="1" id="6325" />
-	</item>
-	<item>
 		<!-- A-Grade Jewels: Tattoo of Absolute -->
 		<ingredient count="5280000" id="57" />
 		<production count="1" id="491" />
