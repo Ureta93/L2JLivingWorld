@@ -313,4 +313,9 @@
 		<ingredient count="15000" id="57" />
 		<production count="1000" id="6407" /> <!-- Large Firework -->
 	</item>
+	<!-- Goldbar -->
+	<item>
+		<ingredient count="1000000000" id="57" />
+		<production count="1" id="3470" />
+	</item>
 </list>
