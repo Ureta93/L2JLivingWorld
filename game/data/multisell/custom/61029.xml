@@ -43,4 +43,29 @@
 		<ingredient count="516000" id="57" />
 		<production count="1" id="420" />
 	</item>
+	<item>
+		<!-- C-Grade Light Armor: Drake Leather Boots -->
+		<ingredient count="358000" id="57" />
+		<production count="1" id="2437" />
+	</item>
+	<item>
+		<!-- C-Grade Light Armor: Drake Leather Gloves -->
+		<ingredient count="358000" id="57" />
+		<production count="1" id="2461" />
+	</item>
+	<item>
+		<!-- C-Grade Light Armor: Helm of Avadon -->
+		<ingredient count="536000" id="57" />
+		<production count="1" id="549" />
+	</item>
+	<item>
+		<!-- C-Grade Light Armor: Theca Leather Boots -->
+		<ingredient count="275000" id="57" />
+		<production count="1" id="2436" />
+	</item>
+	<item>
+		<!-- C-Grade Light Armor: Theca Leather Gloves -->
+		<ingredient count="275000" id="57" />
+		<production count="1" id="2460" />
+	</item>
 </list>

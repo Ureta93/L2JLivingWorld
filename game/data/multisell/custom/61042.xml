@@ -13,4 +13,19 @@
 		<ingredient count="8960000" id="57" />
 		<production count="1" id="6374" />
 	</item>
+	<item>
+		<!-- S-Grade Heavy Armor: Imperial Crusader Boots -->
+		<ingredient count="3580000" id="57" />
+		<production count="1" id="6376" />
+	</item>
+	<item>
+		<!-- S-Grade Heavy Armor: Imperial Crusader Gauntlets -->
+		<ingredient count="3580000" id="57" />
+		<production count="1" id="6375" />
+	</item>
+	<item>
+		<!-- S-Grade Heavy Armor: Imperial Crusader Helmet -->
+		<ingredient count="5370000" id="57" />
+		<production count="1" id="6378" />
+	</item>
 </list>

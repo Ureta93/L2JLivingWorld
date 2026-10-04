@@ -128,4 +128,69 @@
 		<ingredient count="1300000" id="57" />
 		<production count="1" id="383" />
 	</item>
+	<item>
+		<!-- B-Grade Heavy Armor: Avadon Boots - Heavy Armor -->
+		<ingredient count="519000" id="57" />
+		<production count="1" id="5730" />
+	</item>
+	<item>
+		<!-- B-Grade Heavy Armor: Avadon Circlet -->
+		<ingredient count="778000" id="57" />
+		<production count="1" id="2415" />
+	</item>
+	<item>
+		<!-- B-Grade Heavy Armor: Avadon Gloves - Heavy Armor -->
+		<ingredient count="519000" id="57" />
+		<production count="1" id="5714" />
+	</item>
+	<item>
+		<!-- B-Grade Heavy Armor: Blue Wolf Boots - Heavy Armor -->
+		<ingredient count="804000" id="57" />
+		<production count="1" id="5734" />
+	</item>
+	<item>
+		<!-- B-Grade Heavy Armor: Blue Wolf Gloves - Heavy Armor -->
+		<ingredient count="804000" id="57" />
+		<production count="1" id="5718" />
+	</item>
+	<item>
+		<!-- B-Grade Heavy Armor: Blue Wolf Helmet -->
+		<ingredient count="1210000" id="57" />
+		<production count="1" id="2416" />
+	</item>
+	<item>
+		<!-- B-Grade Heavy Armor: Doom Boots - Heavy Armor -->
+		<ingredient count="804000" id="57" />
+		<production count="1" id="5738" />
+	</item>
+	<item>
+		<!-- B-Grade Heavy Armor: Doom Gloves - Heavy Armor -->
+		<ingredient count="804000" id="57" />
+		<production count="1" id="5722" />
+	</item>
+	<item>
+		<!-- B-Grade Heavy Armor: Doom Helmet -->
+		<ingredient count="1210000" id="57" />
+		<production count="1" id="2417" />
+	</item>
+	<item>
+		<!-- B-Grade Heavy Armor: Helm of Doom -->
+		<ingredient count="778000" id="57" />
+		<production count="1" id="550" />
+	</item>
+	<item>
+		<!-- B-Grade Heavy Armor: Zubei's Boots - Heavy Armor -->
+		<ingredient count="519000" id="57" />
+		<production count="1" id="5726" />
+	</item>
+	<item>
+		<!-- B-Grade Heavy Armor: Zubei's Gauntlets - Heavy Armor -->
+		<ingredient count="519000" id="57" />
+		<production count="1" id="5710" />
+	</item>
+	<item>
+		<!-- B-Grade Heavy Armor: Zubei's Helmet -->
+		<ingredient count="778000" id="57" />
+		<production count="1" id="503" />
+	</item>
 </list>

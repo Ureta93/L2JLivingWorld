@@ -4,53 +4,8 @@
 		<npc>-1</npc> <!-- CB -->
 	</npcs>
 	<item>
-		<!-- S-Grade Other Armor: Draconic Leather Boots -->
-		<ingredient count="3580000" id="57" />
-		<production count="1" id="6381" />
-	</item>
-	<item>
-		<!-- S-Grade Other Armor: Draconic Leather Gloves -->
-		<ingredient count="3580000" id="57" />
-		<production count="1" id="6380" />
-	</item>
-	<item>
-		<!-- S-Grade Other Armor: Draconic Leather Helmet -->
-		<ingredient count="5370000" id="57" />
-		<production count="1" id="6382" />
-	</item>
-	<item>
-		<!-- S-Grade Other Armor: Imperial Crusader Boots -->
-		<ingredient count="3580000" id="57" />
-		<production count="1" id="6376" />
-	</item>
-	<item>
-		<!-- S-Grade Other Armor: Imperial Crusader Gauntlets -->
-		<ingredient count="3580000" id="57" />
-		<production count="1" id="6375" />
-	</item>
-	<item>
-		<!-- S-Grade Other Armor: Imperial Crusader Helmet -->
-		<ingredient count="5370000" id="57" />
-		<production count="1" id="6378" />
-	</item>
-	<item>
 		<!-- S-Grade Other Armor: Imperial Crusader Shield -->
 		<ingredient count="3760000" id="57" />
 		<production count="1" id="6377" />
-	</item>
-	<item>
-		<!-- S-Grade Other Armor: Major Arcana Boots -->
-		<ingredient count="3580000" id="57" />
-		<production count="1" id="6385" />
-	</item>
-	<item>
-		<!-- S-Grade Other Armor: Major Arcana Circlet -->
-		<ingredient count="5370000" id="57" />
-		<production count="1" id="6386" />
-	</item>
-	<item>
-		<!-- S-Grade Other Armor: Major Arcana Gloves -->
-		<ingredient count="3580000" id="57" />
-		<production count="1" id="6384" />
 	</item>
 </list>

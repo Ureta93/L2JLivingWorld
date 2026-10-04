@@ -3,6 +3,7 @@
 	<npcs>
 		<npc>-1</npc> <!-- CB -->
 	</npcs>
+
 	<item>
 		<!-- A-Grade Light Armor: Apella Brigandine -->
 		<ingredient count="5643300" id="57" />
@@ -28,7 +29,6 @@
 		<ingredient count="7730000" id="57" />
 		<production count="1" id="2395" />
 	</item>
-
 	<item>
 		<!-- A-Grade Light Armor: Tallum Leather Armor -->
 		<ingredient count="5080000" id="57" />
@@ -38,5 +38,115 @@
 		<!-- A-Grade Light Armor: Unicorn Leather Armor -->
 		<ingredient count="7730000" id="57" />
 		<production count="1" id="410" />
+	</item>
+	<item>
+		<!-- A-Grade Light Armor: Apella Boots - Light Armor -->
+		<ingredient count="1157000" id="57" />
+		<production count="1" id="7866" />
+	</item>
+	<item>
+		<!-- A-Grade Light Armor: Apella Helm -->
+		<ingredient count="1736800" id="57" />
+		<production count="1" id="7860" />
+	</item>
+	<item>
+		<!-- A-Grade Light Armor: Apella Leather Gloves - Light Armor -->
+		<ingredient count="1157000" id="57" />
+		<production count="1" id="7865" />
+	</item>
+	<item>
+		<!-- A-Grade Light Armor: Boots of Nightmare -->
+		<ingredient count="1760000" id="57" />
+		<production count="1" id="2440" />
+	</item>
+	<item>
+		<!-- A-Grade Light Armor: Boots of Nightmare - Light Armor -->
+		<ingredient count="1760000" id="57" />
+		<production count="1" id="5784" />
+	</item>
+	<item>
+		<!-- A-Grade Light Armor: Dark Crystal Boots -->
+		<ingredient count="1160000" id="57" />
+		<production count="1" id="563" />
+	</item>
+	<item>
+		<!-- A-Grade Light Armor: Dark Crystal Boots - Light Armor -->
+		<ingredient count="1160000" id="57" />
+		<production count="1" id="5778" />
+	</item>
+	<item>
+		<!-- A-Grade Light Armor: Dark Crystal Gloves -->
+		<ingredient count="1160000" id="57" />
+		<production count="1" id="2472" />
+	</item>
+	<item>
+		<!-- A-Grade Light Armor: Dark Crystal Gloves - Light Armor -->
+		<ingredient count="1160000" id="57" />
+		<production count="1" id="5766" />
+	</item>
+	<item>
+		<!-- A-Grade Light Armor: Dark Crystal Helmet -->
+		<ingredient count="1740000" id="57" />
+		<production count="1" id="512" />
+	</item>
+	<item>
+		<!-- A-Grade Light Armor: Gauntlets of Nightmare -->
+		<ingredient count="1760000" id="57" />
+		<production count="1" id="2479" />
+	</item>
+	<item>
+		<!-- A-Grade Light Armor: Gauntlets of Nightmare - Light Armor -->
+		<ingredient count="1760000" id="57" />
+		<production count="1" id="5772" />
+	</item>
+	<item>
+		<!-- A-Grade Light Armor: Helm of Nightmare -->
+		<ingredient count="2640000" id="57" />
+		<production count="1" id="2418" />
+	</item>
+	<item>
+		<!-- A-Grade Light Armor: Majestic Boots -->
+		<ingredient count="1760000" id="57" />
+		<production count="1" id="583" />
+	</item>
+	<item>
+		<!-- A-Grade Light Armor: Majestic Boots - Light Armor -->
+		<ingredient count="1760000" id="57" />
+		<production count="1" id="5787" />
+	</item>
+	<item>
+		<!-- A-Grade Light Armor: Majestic Circlet -->
+		<ingredient count="2640000" id="57" />
+		<production count="1" id="2419" />
+	</item>
+	<item>
+		<!-- A-Grade Light Armor: Majestic Gauntlets -->
+		<ingredient count="1760000" id="57" />
+		<production count="1" id="2482" />
+	</item>
+	<item>
+		<!-- A-Grade Light Armor: Majestic Gauntlets - Light Armor -->
+		<ingredient count="1760000" id="57" />
+		<production count="1" id="5775" />
+	</item>
+	<item>
+		<!-- A-Grade Light Armor: Tallum Boots - Light Armor -->
+		<ingredient count="1160000" id="57" />
+		<production count="1" id="5781" />
+	</item>
+	<item>
+		<!-- A-Grade Light Armor: Tallum Gloves -->
+		<ingredient count="1160000" id="57" />
+		<production count="1" id="2478" />
+	</item>
+	<item>
+		<!-- A-Grade Light Armor: Tallum Gloves - Light Armor -->
+		<ingredient count="1160000" id="57" />
+		<production count="1" id="5769" />
+	</item>
+	<item>
+		<!-- A-Grade Light Armor: Tallum Helm -->
+		<ingredient count="1740000" id="57" />
+		<production count="1" id="547" />
 	</item>
 </list>

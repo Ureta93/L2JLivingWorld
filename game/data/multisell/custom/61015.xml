@@ -88,4 +88,69 @@
 		<ingredient count="1560000" id="57" />
 		<production count="1" id="2384" />
 	</item>
+	<item>
+		<!-- B-Grade Light Armor: Avadon Boots - Light Armor -->
+		<ingredient count="519000" id="57" />
+		<production count="1" id="5731" />
+	</item>
+	<item>
+		<!-- B-Grade Light Armor: Avadon Circlet -->
+		<ingredient count="778000" id="57" />
+		<production count="1" id="2415" />
+	</item>
+	<item>
+		<!-- B-Grade Light Armor: Avadon Gloves - Light Armor -->
+		<ingredient count="519000" id="57" />
+		<production count="1" id="5715" />
+	</item>
+	<item>
+		<!-- B-Grade Light Armor: Blue Wolf Boots - Light Armor -->
+		<ingredient count="804000" id="57" />
+		<production count="1" id="5735" />
+	</item>
+	<item>
+		<!-- B-Grade Light Armor: Blue Wolf Gloves - Light Armor -->
+		<ingredient count="804000" id="57" />
+		<production count="1" id="5719" />
+	</item>
+	<item>
+		<!-- B-Grade Light Armor: Blue Wolf Helmet -->
+		<ingredient count="1210000" id="57" />
+		<production count="1" id="2416" />
+	</item>
+	<item>
+		<!-- B-Grade Light Armor: Doom Boots - Light Armor -->
+		<ingredient count="804000" id="57" />
+		<production count="1" id="5739" />
+	</item>
+	<item>
+		<!-- B-Grade Light Armor: Doom Gloves - Light Armor -->
+		<ingredient count="804000" id="57" />
+		<production count="1" id="5723" />
+	</item>
+	<item>
+		<!-- B-Grade Light Armor: Doom Helmet -->
+		<ingredient count="1210000" id="57" />
+		<production count="1" id="2417" />
+	</item>
+	<item>
+		<!-- B-Grade Light Armor: Helm of Doom -->
+		<ingredient count="778000" id="57" />
+		<production count="1" id="550" />
+	</item>
+	<item>
+		<!-- B-Grade Light Armor: Zubei's Boots - Light Armor -->
+		<ingredient count="519000" id="57" />
+		<production count="1" id="5727" />
+	</item>
+	<item>
+		<!-- B-Grade Light Armor: Zubei's Gauntlets - Light Armor -->
+		<ingredient count="519000" id="57" />
+		<production count="1" id="5711" />
+	</item>
+	<item>
+		<!-- B-Grade Light Armor: Zubei's Helmet -->
+		<ingredient count="778000" id="57" />
+		<production count="1" id="503" />
+	</item>
 </list>

@@ -38,4 +38,119 @@
 		<ingredient count="3470000" id="57" />
 		<production count="1" id="2400" />
 	</item>
+	<item>
+		<!-- A-Grade Robe Armor: Apella Helm -->
+		<ingredient count="1736800" id="57" />
+		<production count="1" id="7860" />
+	</item>
+	<item>
+		<!-- A-Grade Robe Armor: Apella Sandals - Robe -->
+		<ingredient count="1157000" id="57" />
+		<production count="1" id="7869" />
+	</item>
+	<item>
+		<!-- A-Grade Robe Armor: Apella Silk Gloves - Robe -->
+		<ingredient count="1157000" id="57" />
+		<production count="1" id="7868" />
+	</item>
+	<item>
+		<!-- A-Grade Robe Armor: Boots of Nightmare -->
+		<ingredient count="1760000" id="57" />
+		<production count="1" id="2440" />
+	</item>
+	<item>
+		<!-- A-Grade Robe Armor: Boots of Nightmare - Robe -->
+		<ingredient count="1760000" id="57" />
+		<production count="1" id="5785" />
+	</item>
+	<item>
+		<!-- A-Grade Robe Armor: Dark Crystal Boots -->
+		<ingredient count="1160000" id="57" />
+		<production count="1" id="563" />
+	</item>
+	<item>
+		<!-- A-Grade Robe Armor: Dark Crystal Boots - Robe -->
+		<ingredient count="1160000" id="57" />
+		<production count="1" id="5779" />
+	</item>
+	<item>
+		<!-- A-Grade Robe Armor: Dark Crystal Gloves -->
+		<ingredient count="1160000" id="57" />
+		<production count="1" id="2472" />
+	</item>
+	<item>
+		<!-- A-Grade Robe Armor: Dark Crystal Gloves - Robe -->
+		<ingredient count="1160000" id="57" />
+		<production count="1" id="5767" />
+	</item>
+	<item>
+		<!-- A-Grade Robe Armor: Dark Crystal Helmet -->
+		<ingredient count="1740000" id="57" />
+		<production count="1" id="512" />
+	</item>
+	<item>
+		<!-- A-Grade Robe Armor: Divine Cloak -->
+		<ingredient count="1760000" id="57" />
+		<production count="1" id="623" />
+	</item>
+	<item>
+		<!-- A-Grade Robe Armor: Gauntlets of Nightmare -->
+		<ingredient count="1760000" id="57" />
+		<production count="1" id="2479" />
+	</item>
+	<item>
+		<!-- A-Grade Robe Armor: Gauntlets of Nightmare - Robe -->
+		<ingredient count="1760000" id="57" />
+		<production count="1" id="5773" />
+	</item>
+	<item>
+		<!-- A-Grade Robe Armor: Helm of Nightmare -->
+		<ingredient count="2640000" id="57" />
+		<production count="1" id="2418" />
+	</item>
+	<item>
+		<!-- A-Grade Robe Armor: Majestic Boots -->
+		<ingredient count="1760000" id="57" />
+		<production count="1" id="583" />
+	</item>
+	<item>
+		<!-- A-Grade Robe Armor: Majestic Boots - Robe -->
+		<ingredient count="1760000" id="57" />
+		<production count="1" id="5788" />
+	</item>
+	<item>
+		<!-- A-Grade Robe Armor: Majestic Circlet -->
+		<ingredient count="2640000" id="57" />
+		<production count="1" id="2419" />
+	</item>
+	<item>
+		<!-- A-Grade Robe Armor: Majestic Gauntlets -->
+		<ingredient count="1760000" id="57" />
+		<production count="1" id="2482" />
+	</item>
+	<item>
+		<!-- A-Grade Robe Armor: Majestic Gauntlets - Robe -->
+		<ingredient count="1760000" id="57" />
+		<production count="1" id="5776" />
+	</item>
+	<item>
+		<!-- A-Grade Robe Armor: Tallum Boots - Robe -->
+		<ingredient count="1160000" id="57" />
+		<production count="1" id="5782" />
+	</item>
+	<item>
+		<!-- A-Grade Robe Armor: Tallum Gloves -->
+		<ingredient count="1160000" id="57" />
+		<production count="1" id="2478" />
+	</item>
+	<item>
+		<!-- A-Grade Robe Armor: Tallum Gloves - Robe -->
+		<ingredient count="1160000" id="57" />
+		<production count="1" id="5770" />
+	</item>
+	<item>
+		<!-- A-Grade Robe Armor: Tallum Helm -->
+		<ingredient count="1740000" id="57" />
+		<production count="1" id="547" />
+	</item>
 </list>

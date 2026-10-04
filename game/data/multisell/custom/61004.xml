@@ -68,4 +68,24 @@
 		<ingredient count="880000" id="57" />
 		<production count="1" id="684" />
 	</item>
+	<item>
+		<!-- A-Grade Jewels: Cerberus Necklace -->
+		<ingredient count="2600000" id="57" />
+		<production count="1" id="934" />
+	</item>
+	<item>
+		<!-- A-Grade Jewels: Majestic Necklace -->
+		<ingredient count="3450000" id="57" />
+		<production count="1" id="924" />
+	</item>
+	<item>
+		<!-- A-Grade Jewels: Necklace of Phantom -->
+		<ingredient count="2600000" id="57" />
+		<production count="1" id="930" />
+	</item>
+	<item>
+		<!-- A-Grade Jewels: Phoenix Necklace -->
+		<ingredient count="2600000" id="57" />
+		<production count="1" id="933" />
+	</item>
 </list>

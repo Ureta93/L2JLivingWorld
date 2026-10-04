@@ -33,4 +33,34 @@
 		<ingredient count="2090000" id="57" />
 		<production count="1" id="356" />
 	</item>
+	<item>
+		<!-- C-Grade Heavy Armor: Composite Boots -->
+		<ingredient count="40" id="57" />
+		<production count="1" id="64" />
+	</item>
+	<item>
+		<!-- C-Grade Heavy Armor: Composite Helmet -->
+		<ingredient count="368000" id="57" />
+		<production count="1" id="517" />
+	</item>
+	<item>
+		<!-- C-Grade Heavy Armor: Full Plate Boots -->
+		<ingredient count="358000" id="57" />
+		<production count="1" id="2438" />
+	</item>
+	<item>
+		<!-- C-Grade Heavy Armor: Full Plate Gauntlets -->
+		<ingredient count="358000" id="57" />
+		<production count="1" id="2462" />
+	</item>
+	<item>
+		<!-- C-Grade Heavy Armor: Full Plate Helmet -->
+		<ingredient count="536000" id="57" />
+		<production count="1" id="2414" />
+	</item>
+	<item>
+		<!-- C-Grade Heavy Armor: Helm of Avadon -->
+		<ingredient count="536000" id="57" />
+		<production count="1" id="549" />
+	</item>
 </list>

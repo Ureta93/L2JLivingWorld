@@ -34,11 +34,6 @@
 		<production count="1" id="651" />
 	</item>
 	<item>
-		<!-- B-Grade Other Armor: Adamantite Necklace -->
-		<ingredient count="808000" id="57" />
-		<production count="1" id="918" />
-	</item>
-	<item>
 		<!-- B-Grade Other Armor: Armet -->
 		<ingredient count="1030000" id="57" />
 		<production count="1" id="501" />
@@ -59,84 +54,9 @@
 		<production count="1" id="645" />
 	</item>
 	<item>
-		<!-- B-Grade Other Armor: Avadon Boots - Heavy Armor -->
-		<ingredient count="519000" id="57" />
-		<production count="1" id="5730" />
-	</item>
-	<item>
-		<!-- B-Grade Other Armor: Avadon Boots - Light Armor -->
-		<ingredient count="519000" id="57" />
-		<production count="1" id="5731" />
-	</item>
-	<item>
-		<!-- B-Grade Other Armor: Avadon Boots - Robe -->
-		<ingredient count="519000" id="57" />
-		<production count="1" id="5732" />
-	</item>
-	<item>
-		<!-- B-Grade Other Armor: Avadon Circlet -->
-		<ingredient count="778000" id="57" />
-		<production count="1" id="2415" />
-	</item>
-	<item>
-		<!-- B-Grade Other Armor: Avadon Gloves - Heavy Armor -->
-		<ingredient count="519000" id="57" />
-		<production count="1" id="5714" />
-	</item>
-	<item>
-		<!-- B-Grade Other Armor: Avadon Gloves - Light Armor -->
-		<ingredient count="519000" id="57" />
-		<production count="1" id="5715" />
-	</item>
-	<item>
-		<!-- B-Grade Other Armor: Avadon Gloves - Robe -->
-		<ingredient count="519000" id="57" />
-		<production count="1" id="5716" />
-	</item>
-	<item>
-		<!-- B-Grade Other Armor: Avadon Shield -->
-		<ingredient count="545000" id="57" />
-		<production count="1" id="673" />
-	</item>
-	<item>
 		<!-- B-Grade Other Armor: Blood Shield -->
 		<ingredient count="545000" id="57" />
 		<production count="1" id="671" />
-	</item>
-	<item>
-		<!-- B-Grade Other Armor: Blue Wolf Boots - Heavy Armor -->
-		<ingredient count="804000" id="57" />
-		<production count="1" id="5734" />
-	</item>
-	<item>
-		<!-- B-Grade Other Armor: Blue Wolf Boots - Light Armor -->
-		<ingredient count="804000" id="57" />
-		<production count="1" id="5735" />
-	</item>
-	<item>
-		<!-- B-Grade Other Armor: Blue Wolf Boots - Robe -->
-		<ingredient count="804000" id="57" />
-		<production count="1" id="5736" />
-	</item>
-	<item>
-		<!-- B-Grade Other Armor: Blue Wolf Gloves - Heavy Armor -->
-		<ingredient count="804000" id="57" />
-		<production count="1" id="5718" />
-	</item>
-	<item>
-		<!-- B-Grade Other Armor: Blue Wolf Gloves - Light Armor -->
-		<ingredient count="804000" id="57" />
-		<production count="1" id="5719" />
-	</item>
-	<item>
-		<!-- B-Grade Other Armor: Blue Wolf Gloves - Robe -->
-		<ingredient count="804000" id="57" />
-		<production count="1" id="5720" />
-	</item>
-	<item>
-		<!-- B-Grade Other Armor: Blue Wolf Helmet -->
-		<ingredient count="1210000" id="57" />
-		<production count="1" id="2416" />
 	</item>
 	<item>
 		<!-- B-Grade Other Armor: Boots of Aid -->
@@ -254,56 +174,6 @@
 		<production count="1" id="643" />
 	</item>
 	<item>
-		<!-- B-Grade Other Armor: Divine Helm -->
-		<ingredient count="778000" id="57" />
-		<production count="1" id="552" />
-	</item>
-	<item>
-		<!-- B-Grade Other Armor: Divine Shield -->
-		<ingredient count="845000" id="57" />
-		<production count="1" id="674" />
-	</item>
-	<item>
-		<!-- B-Grade Other Armor: Doom Boots - Heavy Armor -->
-		<ingredient count="804000" id="57" />
-		<production count="1" id="5738" />
-	</item>
-	<item>
-		<!-- B-Grade Other Armor: Doom Boots - Light Armor -->
-		<ingredient count="804000" id="57" />
-		<production count="1" id="5739" />
-	</item>
-	<item>
-		<!-- B-Grade Other Armor: Doom Boots - Robe -->
-		<ingredient count="4455" id="57" />
-		<production count="1" id="5740" />
-	</item>
-	<item>
-		<!-- B-Grade Other Armor: Doom Gloves - Heavy Armor -->
-		<ingredient count="804000" id="57" />
-		<production count="1" id="5722" />
-	</item>
-	<item>
-		<!-- B-Grade Other Armor: Doom Gloves - Light Armor -->
-		<ingredient count="804000" id="57" />
-		<production count="1" id="5723" />
-	</item>
-	<item>
-		<!-- B-Grade Other Armor: Doom Gloves - Robe -->
-		<ingredient count="804000" id="57" />
-		<production count="1" id="5724" />
-	</item>
-	<item>
-		<!-- B-Grade Other Armor: Doom Helmet -->
-		<ingredient count="1210000" id="57" />
-		<production count="1" id="2417" />
-	</item>
-	<item>
-		<!-- B-Grade Other Armor: Doom Shield -->
-		<ingredient count="845000" id="57" />
-		<production count="1" id="110" />
-	</item>
-	<item>
 		<!-- B-Grade Other Armor: Elemental Boots -->
 		<ingredient count="804000" id="57" />
 		<production count="1" id="588" />
@@ -312,11 +182,6 @@
 		<!-- B-Grade Other Armor: Elemental Gloves -->
 		<ingredient count="804000" id="57" />
 		<production count="1" id="2480" />
-	</item>
-	<item>
-		<!-- B-Grade Other Armor: Elemental Necklace -->
-		<ingredient count="1230000" id="57" />
-		<production count="1" id="929" />
 	</item>
 	<item>
 		<!-- B-Grade Other Armor: Elemental Shield -->
@@ -424,11 +289,6 @@
 		<production count="1" id="546" />
 	</item>
 	<item>
-		<!-- B-Grade Other Armor: Helm of Doom -->
-		<ingredient count="778000" id="57" />
-		<production count="1" id="550" />
-	</item>
-	<item>
 		<!-- B-Grade Other Armor: Helm of Underworld -->
 		<ingredient count="1740000" id="57" />
 		<production count="1" id="524" />
@@ -529,46 +389,6 @@
 		<production count="1" id="108" />
 	</item>
 	<item>
-		<!-- B-Grade Other Armor: Necklace of Aid -->
-		<ingredient count="808000" id="57" />
-		<production count="1" id="935" />
-	</item>
-	<item>
-		<!-- B-Grade Other Armor: Necklace of Black Ore -->
-		<ingredient count="1230000" id="57" />
-		<production count="1" id="926" />
-	</item>
-	<item>
-		<!-- B-Grade Other Armor: Necklace of Blessing -->
-		<ingredient count="808000" id="57" />
-		<production count="1" id="936" />
-	</item>
-	<item>
-		<!-- B-Grade Other Armor: Necklace of Grace -->
-		<ingredient count="808000" id="57" />
-		<production count="1" id="931" />
-	</item>
-	<item>
-		<!-- B-Grade Other Armor: Necklace of Holy Spirit -->
-		<ingredient count="1230000" id="57" />
-		<production count="1" id="932" />
-	</item>
-	<item>
-		<!-- B-Grade Other Armor: Necklace of Mana -->
-		<ingredient count="808000" id="57" />
-		<production count="1" id="921" />
-	</item>
-	<item>
-		<!-- B-Grade Other Armor: Necklace of Solar Eclipse -->
-		<ingredient count="808000" id="57" />
-		<production count="1" id="925" />
-	</item>
-	<item>
-		<!-- B-Grade Other Armor: Necklace of Summoning -->
-		<ingredient count="808000" id="57" />
-		<production count="1" id="927" />
-	</item>
-	<item>
 		<!-- B-Grade Other Armor: Otherworldly Boots -->
 		<ingredient count="804000" id="57" />
 		<production count="1" id="587" />
@@ -577,11 +397,6 @@
 		<!-- B-Grade Other Armor: Otherworldly Hood -->
 		<ingredient count="778000" id="57" />
 		<production count="1" id="536" />
-	</item>
-	<item>
-		<!-- B-Grade Other Armor: Otherworldly Necklace -->
-		<ingredient count="1230000" id="57" />
-		<production count="1" id="928" />
 	</item>
 	<item>
 		<!-- B-Grade Other Armor: Otherworldly Shield -->
@@ -597,11 +412,6 @@
 		<!-- B-Grade Other Armor: Paradia Gloves -->
 		<ingredient count="804000" id="57" />
 		<production count="1" id="2486" />
-	</item>
-	<item>
-		<!-- B-Grade Other Armor: Paradia Necklace -->
-		<ingredient count="1230000" id="57" />
-		<production count="1" id="923" />
 	</item>
 	<item>
 		<!-- B-Grade Other Armor: Paradia Shield -->
@@ -642,11 +452,6 @@
 		<!-- B-Grade Other Armor: Sage's Cap -->
 		<ingredient count="778000" id="57" />
 		<production count="1" id="530" />
-	</item>
-	<item>
-		<!-- B-Grade Other Armor: Sage's Necklace -->
-		<ingredient count="1230000" id="57" />
-		<production count="1" id="922" />
 	</item>
 	<item>
 		<!-- B-Grade Other Armor: Sage's Shield -->
@@ -774,43 +579,23 @@
 		<production count="1" id="635" />
 	</item>
 	<item>
-		<!-- B-Grade Other Armor: Zubei's Boots - Heavy Armor -->
-		<ingredient count="519000" id="57" />
-		<production count="1" id="5726" />
+		<!-- B-Grade Other Armor: Divine Shield -->
+		<ingredient count="845000" id="57" />
+		<production count="1" id="674" />
 	</item>
 	<item>
-		<!-- B-Grade Other Armor: Zubei's Boots - Light Armor -->
-		<ingredient count="519000" id="57" />
-		<production count="1" id="5727" />
-	</item>
-	<item>
-		<!-- B-Grade Other Armor: Zubei's Boots - Robe -->
-		<ingredient count="519000" id="57" />
-		<production count="1" id="5728" />
-	</item>
-	<item>
-		<!-- B-Grade Other Armor: Zubei's Gauntlets - Heavy Armor -->
-		<ingredient count="519000" id="57" />
-		<production count="1" id="5710" />
-	</item>
-	<item>
-		<!-- B-Grade Other Armor: Zubei's Gauntlets - Light Armor -->
-		<ingredient count="519000" id="57" />
-		<production count="1" id="5711" />
-	</item>
-	<item>
-		<!-- B-Grade Other Armor: Zubei's Gauntlets - Robe -->
-		<ingredient count="519000" id="57" />
-		<production count="1" id="5712" />
-	</item>
-	<item>
-		<!-- B-Grade Other Armor: Zubei's Helmet -->
-		<ingredient count="778000" id="57" />
-		<production count="1" id="503" />
+		<!-- B-Grade Other Armor: Avadon Shield -->
+		<ingredient count="545000" id="57" />
+		<production count="1" id="673" />
 	</item>
 	<item>
 		<!-- B-Grade Other Armor: Zubei's Shield -->
 		<ingredient count="545000" id="57" />
 		<production count="1" id="633" />
+	</item>
+	<item>
+		<!-- B-Grade Other Armor: Doom Shield -->
+		<ingredient count="845000" id="57" />
+		<production count="1" id="110" />
 	</item>
 </list>

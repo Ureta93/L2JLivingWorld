@@ -14,19 +14,9 @@
 		<production count="1" id="1128" />
 	</item>
 	<item>
-		<!-- C-Grade Other Armor: Aquastone Necklace -->
-		<ingredient count="207000" id="57" />
-		<production count="1" id="915" />
-	</item>
-	<item>
 		<!-- C-Grade Other Armor: Blessed Gloves -->
 		<ingredient count="358000" id="57" />
 		<production count="1" id="2468" />
-	</item>
-	<item>
-		<!-- C-Grade Other Armor: Blessed Necklace -->
-		<ingredient count="565000" id="57" />
-		<production count="1" id="919" />
 	</item>
 	<item>
 		<!-- C-Grade Other Armor: Boots of Seal -->
@@ -74,54 +64,9 @@
 		<production count="1" id="618" />
 	</item>
 	<item>
-		<!-- C-Grade Other Armor: Composite Boots -->
-		<ingredient count="40" id="57" />
-		<production count="1" id="64" />
-	</item>
-	<item>
-		<!-- C-Grade Other Armor: Composite Helmet -->
-		<ingredient count="368000" id="57" />
-		<production count="1" id="517" />
-	</item>
-	<item>
-		<!-- C-Grade Other Armor: Composite Shield -->
-		<ingredient count="258000" id="57" />
-		<production count="1" id="107" />
-	</item>
-	<item>
 		<!-- C-Grade Other Armor: Crimson Boots -->
 		<ingredient count="161000" id="57" />
 		<production count="1" id="1126" />
-	</item>
-	<item>
-		<!-- C-Grade Other Armor: Demon's Boots -->
-		<ingredient count="245000" id="57" />
-		<production count="1" id="2435" />
-	</item>
-	<item>
-		<!-- C-Grade Other Armor: Demon's Gloves -->
-		<ingredient count="245000" id="57" />
-		<production count="1" id="2459" />
-	</item>
-	<item>
-		<!-- C-Grade Other Armor: Divine Boots -->
-		<ingredient count="358000" id="57" />
-		<production count="1" id="603" />
-	</item>
-	<item>
-		<!-- C-Grade Other Armor: Divine Gloves -->
-		<ingredient count="358000" id="57" />
-		<production count="1" id="2463" />
-	</item>
-	<item>
-		<!-- C-Grade Other Armor: Drake Leather Boots -->
-		<ingredient count="358000" id="57" />
-		<production count="1" id="2437" />
-	</item>
-	<item>
-		<!-- C-Grade Other Armor: Drake Leather Gloves -->
-		<ingredient count="358000" id="57" />
-		<production count="1" id="2461" />
 	</item>
 	<item>
 		<!-- C-Grade Other Armor: Dwarven Chain Boots -->
@@ -159,26 +104,6 @@
 		<production count="1" id="1127" />
 	</item>
 	<item>
-		<!-- C-Grade Other Armor: Full Plate Boots -->
-		<ingredient count="358000" id="57" />
-		<production count="1" id="2438" />
-	</item>
-	<item>
-		<!-- C-Grade Other Armor: Full Plate Gauntlets -->
-		<ingredient count="358000" id="57" />
-		<production count="1" id="2462" />
-	</item>
-	<item>
-		<!-- C-Grade Other Armor: Full Plate Helmet -->
-		<ingredient count="536000" id="57" />
-		<production count="1" id="2414" />
-	</item>
-	<item>
-		<!-- C-Grade Other Armor: Full Plate Shield -->
-		<ingredient count="375000" id="57" />
-		<production count="1" id="2497" />
-	</item>
-	<item>
 		<!-- C-Grade Other Armor: Gauntlets of Ghost -->
 		<ingredient count="358000" id="57" />
 		<production count="1" id="609" />
@@ -192,11 +117,6 @@
 		<!-- C-Grade Other Armor: Great Helmet -->
 		<ingredient count="242000" id="57" />
 		<production count="1" id="500" />
-	</item>
-	<item>
-		<!-- C-Grade Other Armor: Helm of Avadon -->
-		<ingredient count="536000" id="57" />
-		<production count="1" id="549" />
 	</item>
 	<item>
 		<!-- C-Grade Other Armor: Helmet of Pledge -->
@@ -224,16 +144,6 @@
 		<production count="1" id="535" />
 	</item>
 	<item>
-		<!-- C-Grade Other Armor: Karmian Boots -->
-		<ingredient count="126000" id="57" />
-		<production count="1" id="2430" />
-	</item>
-	<item>
-		<!-- C-Grade Other Armor: Karmian Gloves -->
-		<ingredient count="126000" id="57" />
-		<production count="1" id="2454" />
-	</item>
-	<item>
 		<!-- C-Grade Other Armor: Knight's Shield -->
 		<ingredient count="169000" id="57" />
 		<production count="1" id="632" />
@@ -242,21 +152,6 @@
 		<!-- C-Grade Other Armor: Mithril Gauntlets -->
 		<ingredient count="245000" id="57" />
 		<production count="1" id="608" />
-	</item>
-	<item>
-		<!-- C-Grade Other Armor: Necklace of Mermaid -->
-		<ingredient count="393000" id="57" />
-		<production count="1" id="917" />
-	</item>
-	<item>
-		<!-- C-Grade Other Armor: Necklace of Protection -->
-		<ingredient count="261000" id="57" />
-		<production count="1" id="916" />
-	</item>
-	<item>
-		<!-- C-Grade Other Armor: Necklace of Seal -->
-		<ingredient count="565000" id="57" />
-		<production count="1" id="119" />
 	</item>
 	<item>
 		<!-- C-Grade Other Armor: Pa'agrian Hand -->
@@ -319,18 +214,18 @@
 		<production count="1" id="498" />
 	</item>
 	<item>
-		<!-- C-Grade Other Armor: Theca Leather Boots -->
-		<ingredient count="275000" id="57" />
-		<production count="1" id="2436" />
-	</item>
-	<item>
-		<!-- C-Grade Other Armor: Theca Leather Gloves -->
-		<ingredient count="275000" id="57" />
-		<production count="1" id="2460" />
-	</item>
-	<item>
 		<!-- C-Grade Other Armor: Tower Shield -->
 		<ingredient count="258000" id="57" />
 		<production count="1" id="103" />
+	</item>
+	<item>
+		<!-- C-Grade Other Armor: Full Plate Shield -->
+		<ingredient count="375000" id="57" />
+		<production count="1" id="2497" />
+	</item>
+	<item>
+		<!-- C-Grade Other Armor: Composite Shield -->
+		<ingredient count="258000" id="57" />
+		<production count="1" id="107" />
 	</item>
 </list>

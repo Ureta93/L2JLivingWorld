@@ -8,4 +8,19 @@
 		<ingredient count="17400000" id="57" />
 		<production count="1" id="6379" />
 	</item>
+	<item>
+		<!-- S-Grade Light Armor: Draconic Leather Boots -->
+		<ingredient count="3580000" id="57" />
+		<production count="1" id="6381" />
+	</item>
+	<item>
+		<!-- S-Grade Light Armor: Draconic Leather Gloves -->
+		<ingredient count="3580000" id="57" />
+		<production count="1" id="6380" />
+	</item>
+	<item>
+		<!-- S-Grade Light Armor: Draconic Leather Helmet -->
+		<ingredient count="5370000" id="57" />
+		<production count="1" id="6382" />
+	</item>
 </list>

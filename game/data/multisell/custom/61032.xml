@@ -73,4 +73,29 @@
 		<ingredient count="1070000" id="57" />
 		<production count="1" id="489" />
 	</item>
+	<item>
+		<!-- C-Grade Jewels: Aquastone Necklace -->
+		<ingredient count="207000" id="57" />
+		<production count="1" id="915" />
+	</item>
+	<item>
+		<!-- C-Grade Jewels: Blessed Necklace -->
+		<ingredient count="565000" id="57" />
+		<production count="1" id="919" />
+	</item>
+	<item>
+		<!-- C-Grade Jewels: Necklace of Mermaid -->
+		<ingredient count="393000" id="57" />
+		<production count="1" id="917" />
+	</item>
+	<item>
+		<!-- C-Grade Jewels: Necklace of Protection -->
+		<ingredient count="261000" id="57" />
+		<production count="1" id="916" />
+	</item>
+	<item>
+		<!-- C-Grade Jewels: Necklace of Seal -->
+		<ingredient count="565000" id="57" />
+		<production count="1" id="119" />
+	</item>
 </list>

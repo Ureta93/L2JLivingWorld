@@ -38,4 +38,39 @@
 		<ingredient count="707000" id="57" />
 		<production count="1" id="440" />
 	</item>
+	<item>
+		<!-- C-Grade Robe Armor: Demon's Boots -->
+		<ingredient count="245000" id="57" />
+		<production count="1" id="2435" />
+	</item>
+	<item>
+		<!-- C-Grade Robe Armor: Demon's Gloves -->
+		<ingredient count="245000" id="57" />
+		<production count="1" id="2459" />
+	</item>
+	<item>
+		<!-- C-Grade Robe Armor: Divine Boots -->
+		<ingredient count="358000" id="57" />
+		<production count="1" id="603" />
+	</item>
+	<item>
+		<!-- C-Grade Robe Armor: Divine Gloves -->
+		<ingredient count="358000" id="57" />
+		<production count="1" id="2463" />
+	</item>
+	<item>
+		<!-- C-Grade Robe Armor: Helm of Avadon -->
+		<ingredient count="536000" id="57" />
+		<production count="1" id="549" />
+	</item>
+	<item>
+		<!-- C-Grade Robe Armor: Karmian Boots -->
+		<ingredient count="126000" id="57" />
+		<production count="1" id="2430" />
+	</item>
+	<item>
+		<!-- C-Grade Robe Armor: Karmian Gloves -->
+		<ingredient count="126000" id="57" />
+		<production count="1" id="2454" />
+	</item>
 </list>

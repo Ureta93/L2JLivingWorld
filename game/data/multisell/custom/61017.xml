@@ -168,4 +168,74 @@
 		<ingredient count="1560000" id="57" />
 		<production count="1" id="2397" />
 	</item>
+	<item>
+		<!-- B-Grade Robe Armor: Avadon Boots - Robe -->
+		<ingredient count="519000" id="57" />
+		<production count="1" id="5732" />
+	</item>
+	<item>
+		<!-- B-Grade Robe Armor: Avadon Circlet -->
+		<ingredient count="778000" id="57" />
+		<production count="1" id="2415" />
+	</item>
+	<item>
+		<!-- B-Grade Robe Armor: Avadon Gloves - Robe -->
+		<ingredient count="519000" id="57" />
+		<production count="1" id="5716" />
+	</item>
+	<item>
+		<!-- B-Grade Robe Armor: Blue Wolf Boots - Robe -->
+		<ingredient count="804000" id="57" />
+		<production count="1" id="5736" />
+	</item>
+	<item>
+		<!-- B-Grade Robe Armor: Blue Wolf Gloves - Robe -->
+		<ingredient count="804000" id="57" />
+		<production count="1" id="5720" />
+	</item>
+	<item>
+		<!-- B-Grade Robe Armor: Blue Wolf Helmet -->
+		<ingredient count="1210000" id="57" />
+		<production count="1" id="2416" />
+	</item>
+	<item>
+		<!-- B-Grade Robe Armor: Divine Helm -->
+		<ingredient count="778000" id="57" />
+		<production count="1" id="552" />
+	</item>
+	<item>
+		<!-- B-Grade Robe Armor: Doom Boots - Robe -->
+		<ingredient count="4455" id="57" />
+		<production count="1" id="5740" />
+	</item>
+	<item>
+		<!-- B-Grade Robe Armor: Doom Gloves - Robe -->
+		<ingredient count="804000" id="57" />
+		<production count="1" id="5724" />
+	</item>
+	<item>
+		<!-- B-Grade Robe Armor: Doom Helmet -->
+		<ingredient count="1210000" id="57" />
+		<production count="1" id="2417" />
+	</item>
+	<item>
+		<!-- B-Grade Robe Armor: Helm of Doom -->
+		<ingredient count="778000" id="57" />
+		<production count="1" id="550" />
+	</item>
+	<item>
+		<!-- B-Grade Robe Armor: Zubei's Boots - Robe -->
+		<ingredient count="519000" id="57" />
+		<production count="1" id="5728" />
+	</item>
+	<item>
+		<!-- B-Grade Robe Armor: Zubei's Gauntlets - Robe -->
+		<ingredient count="519000" id="57" />
+		<production count="1" id="5712" />
+	</item>
+	<item>
+		<!-- B-Grade Robe Armor: Zubei's Helmet -->
+		<ingredient count="778000" id="57" />
+		<production count="1" id="503" />
+	</item>
 </list>
